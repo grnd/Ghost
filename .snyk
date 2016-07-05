@@ -1,0 +1,6 @@
+version: v1.5.0
+ignore: {}
+patch:
+  'npm:minimatch:20160620':
+    - express-hbs > readdirp > minimatch:
+        patched: '2016-07-05T13:15:32.672Z'
